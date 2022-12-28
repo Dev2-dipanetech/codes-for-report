@@ -1,0 +1,23 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2022-12-14 11:14:52.183656",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{}",
+ "modified": "2022-12-14 11:14:59.497952",
+ "modified_by": "Administrator",
+ "module": "Custom Reports",
+ "name": "Custom_report_1",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Project",
+ "report_name": "Custom_report_1",
+ "report_type": "Report Builder",
+ "roles": []
+}
